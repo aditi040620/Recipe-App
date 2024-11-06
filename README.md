@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -122,9 +122,3 @@ Join our community of developers creating universal apps.
 
 # Contributing
   Feel free to open issues or submit pull requests for improvements!
-
-  
-
-
-  
->>>>>>> 10c4f94549a60c94e732e764250c81b6da18c45d
